@@ -1,4 +1,4 @@
-package Class9HW;
+package class9Hw;
 
 public class Task6 {
     public static void main(String[] args) {
